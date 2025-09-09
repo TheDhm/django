@@ -204,6 +204,15 @@ Minor features
   processing instruction will be added to the top of the document for each
   stylesheet in the given list. See :ref:`feed-stylesheets` for more details.
 
+``make_toast()``
+================
+
+.. function:: make_toast()
+
+.. versionadded:: 2.2
+
+Returns ``'toast'``.
+
 Database backends
 ~~~~~~~~~~~~~~~~~
 
